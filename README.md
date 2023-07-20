@@ -1,2 +1,1 @@
-# odin-calculator
-Simple Calculator Using Javascript
+# Simple Calculator Using Javascript
